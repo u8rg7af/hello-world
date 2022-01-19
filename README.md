@@ -1,2 +1,3 @@
 # hello-world
-Hello-World-Beispiel
+
+My first git repository
